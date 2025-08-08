@@ -1,0 +1,3 @@
+hello:hola
+thanks:gracias
+free:gratis
